@@ -4,11 +4,11 @@ Welcome to the repository containing a comprehensive collection of projects comp
 
 ## Projects
 
-1. [PDF Reader App](./PDF-Reader-App): An Android application designed to simplify the way we read and interact with PDF documents. This project was developed as part of my internship at CodeClause.
+1. [PDF Reader App](https://github.com/pralinkhaira/CodeClause-Internship-Projects/tree/main/PDF%20Reader%20App): An Android application designed to simplify the way we read and interact with PDF documents. This project was developed as part of my internship at CodeClause.
 
-2. [QR-Barcode Scanner](./QR-Barcode-Scanner): A handy Android app for scanning QR codes and barcodes, providing instant access to relevant information. This project is one of the successful outcomes of my internship journey at CodeClause.
+2. [QR-Barcode Scanner](https://github.com/pralinkhaira/CodeClause-Internship-Projects/tree/main/QR-Bar%20Code%20Scanner): A handy Android app for scanning QR codes and barcodes, providing instant access to relevant information. This project is one of the successful outcomes of my internship journey at CodeClause.
 
-3. [Real-Time Language Translator App](./Real-Time-Language-Translator-App): An innovative application that facilitates real-time language translation, breaking down communication barriers in our increasingly interconnected world. This project was another achievement during my internship period at CodeClause.
+3. [Real-Time Language Translator App](https://github.com/pralinkhaira/CodeClause-Internship-Projects/tree/main/Real%20Time%20Language%20Translator%20App): An innovative application that facilitates real-time language translation, breaking down communication barriers in our increasingly interconnected world. This project was another achievement during my internship period at CodeClause.
 
 ## About the Internship
 
